@@ -9,8 +9,8 @@ WARP Windows Optimum Software
 
 - 默认安装
 
-- 打开warp优选ip，选择ipv4 or ipv6，筛选完成后，打开cvs复制第一个IP地址和端口，打开设置填入ip和端口
+- 打开WARP工具箱，优选ip，选择iPV4 or iPV6，筛选完成后，打开CVS复制第一个IP地址和端口，打开设置填入IP和端口
 
-- 重新链接warp即可
+- 重新连接WARP即可
 
 ##### PS：如果IP不行，就再换一个。
